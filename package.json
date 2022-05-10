@@ -1,0 +1,15 @@
+{
+  "name": "odd_number_determiner",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Simple package that returns true for odd numbers and false for even numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William M. Tsikata",
+  "license": "MIT",
+  "dependencies": {
+    "odd_number_determiner": "^1.0.0"
+  }
+}
